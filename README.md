@@ -1,6 +1,6 @@
 # How to install Tizen Studio on Arch Linux
 
-Just clone the repo and run `./install.sh`
+### Just clone the repo and run `./install.sh`
 
 What we do?
 
