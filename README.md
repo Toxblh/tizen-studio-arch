@@ -8,4 +8,8 @@ What we do?
 1. Download the studio from https://developer.tizen.org/ko/development/tizen-studio/download?langredirect=1# (Tizen Studio with IDE installer)
 2. Do it executable
 3. Start with fake-dpkg (dkpg it's a symbol link) which will provide correct information for installer checks
-4. Maybe need to install some libs. Didn't check that. Will be cool if you provide the information in issues or PR.
+4. List of deps what I used in arch for work. Will be cool if you provide more the information in issues or PR
+
+  rpm2cpio - `yay -S rpmextract`
+  cpio - `yay -S cpio`
+  libwebkitgtk-1.0-0 - so here as I understand will be provided if you install `webkitgtk` but I don't remember
