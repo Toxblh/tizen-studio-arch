@@ -20,4 +20,77 @@ cpio)
 libwebkitgtk-1.0-0)
     echo "ii  libwebkitgtk-1.0-0:amd64 2.4.11-3ubuntu3 amd64        Web content engine library for GTK+"
     ;;
+libcurl3-gnutls)
+    echo "ii  libcurl3-gnutls 7.68.0-1ubuntu2.2 amd64        easy-to-use client-side URL transfer library (GnuTLS flavour) "
+    ;;
+libxcb-xfixes0)
+    echo "ii  libxcb-xfixes0 1.14-2 amd64        X C Binding, xfixes extension"
+    ;;
+libxi6)
+    echo "ii  libxi6 2:1.7.10-0ubuntu1 amd64        X11 Input extension library"
+    ;;
+libpixman-1-0)
+    echo "ii  libpixman-1-0 0.38.4-0ubuntu1 amd64        pixel-manipulation library for X and cairo"
+    ;;
+acl)
+    echo "ii  acl 2.2.53-6 amd64        access control list - utilities"
+    ;;
+libxcb-randr0)
+    echo "ii  libxcb-randr0 1.14-2 amd64        X C Binding, randr extension"
+    ;;
+libxcb-shape0)
+    echo "ii  libxcb-shape0 1.14-2 amd64        X C Binding, shape extension"
+    ;;
+libxcb-icccm4)
+    echo "ii  libxcb-icccm4 0.4.1-1.1 amd64        utility libraries for X C Binding -- icccm"
+    ;;
+libglib2.0-0)
+    echo "ii  libglib2.0-0 2.64.2-1~fakesync1 amd64        	GLib library of C routines"
+    ;;
+gettext)
+    echo "ii  gettext 0.19.8.1-10build1 amd64        GNU Internationalization utilities"
+    ;;
+make)
+    echo "ii  make 4.2.1-1.2 amd64        utility for directing compilation"
+    ;;
+libxcb-render-util0)
+    echo "ii  libxcb-render-util0 0.3.9-1build1 amd64        utility libraries for X C Binding -- render-util"
+    ;;
+python2.7)
+    echo "ii  python2.7 2.7.18~rc1-2 amd64        Interactive high-level object-oriented language (version 2.7)"
+    ;;
+libxcb-image0)
+    echo "ii  libxcb-image0 0.4.0-1build1 amd64        	utility libraries for X C Binding -- image"
+    ;;
+libsdl1.2debian)
+    echo "ii  libsdl1.2debian 1.2.15+dfsg2-5 amd64        Simple DirectMedia Layer"
+    ;;
+libv4l-0)
+    echo "ii  libv4l-0 1.18.0-2build1 amd64        Collection of video4linux support libraries "
+    ;;
+libpython2.7)
+    echo "ii  libpython2.7 2.7.18~rc1-2 amd64        Shared Python runtime library (version 2.7)"
+    ;;
+libx11-xcb1)
+    echo "ii  libx11-xcb1 2:1.6.9-2ubuntu1.1 amd64        Xlib/XCB interface library"
+    ;;
+libncurses5)
+    echo "ii  libncurses5 6.2-0ubuntu2 amd64        shared libraries for terminal handling (legacy version)"
+    ;;
+libfontconfig1)
+    echo "ii  libfontconfig1 2.13.1-2ubuntu3 amd64        generic font configuration library - runtime"
+    ;;
+libsm6)
+    echo "ii  libsm6 2:1.2.3-1 amd64        X11 Session Management library "
+    ;;
+libjpeg-turbo8)
+    echo "ii  libjpeg-turbo8 2.0.3-0ubuntu1.20.04.1 amd64        IJG JPEG compliant runtime library."
+    ;;
+bridge-utils)
+    echo "ii  bridge-utils 1.6-2ubuntu1 amd64        Utilities for configuring the Linux Ethernet bridge"
+    ;;
+openvpn)
+    echo "ii  openvpn 2.4.7-1ubuntu2 amd64        virtual private network daemon"
+    ;;
 esac
+
