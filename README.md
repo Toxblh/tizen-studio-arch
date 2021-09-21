@@ -12,4 +12,5 @@ What we do?
 
 - rpm2cpio - `yay -S rpmextract`
 - cpio - `yay -S cpio`
-- libwebkitgtk-1.0-0 - so here as I understand will be provided if you install `webkitgtk` but I don't remember
+- libwebkitgtk-1.0-0 - so here as I understand will be provided if you install `webkitgtk` but I don't remember.
+  This dependency is solved with https://github.com/frealgagu/archlinux.webkitgtk2/releases
