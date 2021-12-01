@@ -14,3 +14,7 @@ What we do?
 - cpio - `yay -S cpio`
 - gnome-keyring `pacman -S gnome-keyring` for certificates
 - libwebkitgtk-1.0-0 - so here as I understand will be provided if you install `webkitgtk` but I don't remember. (This dependency is solved with https://github.com/frealgagu/archlinux.webkitgtk2/releases)
+
+If you have some problems with kwin while running device manager, such as some windows not well sized (1 pixel x 59) so is impossible to connect to devices.
+To solve it change to other than kde wm or force windows size as in https://ahelpme.com/software/kde-plasma/kde-plasma-windows-force-resize-ikvm-virtual-keyboard/ 
+Thanks @aleixq
