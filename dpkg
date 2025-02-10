@@ -92,5 +92,14 @@ bridge-utils)
 openvpn)
     echo "ii  openvpn 2.4.7-1ubuntu2 amd64        virtual private network daemon"
     ;;
+libkchart2)
+    echo "ii  libkchart2:amd64 2.8.0-1ubuntu1 amd64        library for creating business charts (shared library)"
+    ;;
+libkf5itemmodels5)
+    echo "ii  libkf5itemmodels5:amd64 5.115.0-0ubuntu5 amd64        additional item/view models for Qt Itemview"
+    ;;
+libkf5kiowidgets5)
+    echo "ii  libkf5kiowidgets5:amd64 5.115.0-0ubuntu6 amd64        resource and network access abstraction (KIO widgets library)"
+    ;;
 esac
 
